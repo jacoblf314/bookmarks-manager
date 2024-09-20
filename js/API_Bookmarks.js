@@ -1,4 +1,4 @@
-const BOOKMARK_API_URL = "http://localhost:5000/api/bookmarks";
+const BOOKMARK_API_URL = "https://possible-bow-blue.glitch.me/api/bookmarks";
 
 function API_GetBookmarks() {
     return new Promise(resolve => {
